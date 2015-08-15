@@ -1,3 +1,3 @@
 # Theme
 
-Viendra en temp voulu
+Viendra en temps voulu
